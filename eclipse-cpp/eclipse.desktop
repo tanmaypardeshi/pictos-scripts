@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Eclipse for C/CPP
+Type=Application
+Exec=/var/opt/eclipse/eclipse
+Terminal=false
+Icon=/var/opt/eclipse/icon.xpm
+Comment=Integrated Development Environment
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=Eclipse for C/CPP
+Name[en_US]=Eclipse for C/CPP
