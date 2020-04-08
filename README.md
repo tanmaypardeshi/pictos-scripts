@@ -22,7 +22,7 @@ Open terminal and locate path of script. The deb file has to be in Downloads/app
 ## Find the packages here:<br>
 
 <strong>Google Chrome:</strong> https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjw7LX0BRBiEiwA__gNw29JD4eR-8s-Ff-LfIFrKQXe80Ig2ekevzaX11I-Xxpaw0XAFjSfpRoCwTQQAvD_BwE&gclsrc=aw.ds<br>
-(DOwnload the .deb package)<br>
+(Download the .deb package)<br>
 
 <strong>Eclipse for C/CPP:</strong> https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-cpp-2020-03-R-incubation-linux-gtk-x86_64.tar.gz<br>
 (Rename the file to eclipse_cpp.tar.gz).<br>
