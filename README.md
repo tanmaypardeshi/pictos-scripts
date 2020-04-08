@@ -16,8 +16,8 @@ Open terminal and locate path of script. The deb file has to be in Downloads/app
 ### To run uninstall script:
 Open terminal and locate path of script. The deb file has to be in Downloads/app-name for now(script can be anywhere).
 
-<i>chmod +x uninstall.sh</i><br>
-<i>./uninstall.sh</i>
+<i>chmod +x app-name_uninstall.sh</i><br>
+<i>./app-name_uninstall.sh</i>
 
 ## Find the packages here:<br>
 
